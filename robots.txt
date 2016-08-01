@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow:
 
-Sitemap: http://magictoad.github.io/sitemap.xml 
+Sitemap: http://magictoad.github.io/sitemap.xml
