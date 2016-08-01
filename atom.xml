@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Magic Toad Gaming]]></title>
   <link href="http://magictoad.github.io/atom.xml" rel="self"/>
   <link href="http://magictoad.github.io/"/>
-  <updated>2016-08-01T15:22:46-04:00</updated>
+  <updated>2016-08-01T16:58:32-04:00</updated>
   <id>http://magictoad.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jire and Shayne]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
